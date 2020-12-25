@@ -1,0 +1,6 @@
+Manikanta
+<<<<<<< HEAD
+masaischool
+=======
+MasaiSchool
+>>>>>>> b09e79b7cb4a2441eeeb1c2e7b0a959b38bbc96a
